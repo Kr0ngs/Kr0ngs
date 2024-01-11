@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 </div>
 <p>Меня зовут Саша, мне 19 лет.</p>
 <a href="https://vk.com/a.skvortsov73">
-   <img src="https://img2.freepng.fr/20180629/xtu/kisspng-vk-social-networking-service-yandex-search-like-bu-russia-player-5b36bc6059a9d8.2401446715303138243673.jpg" alt="LinkedIn"/>
+   <img src="https://img2.freepng.fr/20180629/xtu/kisspng-vk-social-networking-service-yandex-search-like-bu-russia-player-5b36bc6059a9d8.2401446715303138243673.jpg" alt="LinkedIn" width=" 40" height=" 30"/>
 </a> 
